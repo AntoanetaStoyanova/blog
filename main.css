@@ -107,7 +107,7 @@ section {
 }
 section .b-image {
   min-height: 80vh;
-  background: url(blogimage.jpg) no-repeat;
+  background: url('blogimage.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   display: grid;
